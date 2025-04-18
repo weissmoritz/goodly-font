@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Goodly';
+  src: url('fonts/Goodly-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Goodly';
+  src: url('fonts/Goodly-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Goodly';
+  src: url('fonts/Goodly-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
